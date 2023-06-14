@@ -1,0 +1,13 @@
+{
+  "AcceptGifts": true,
+  "AutoSteamSaleEvent": true,
+  "BotBehaviour": 32,
+  "Enabled": true,
+  "GamesPlayedWhileIdle": [
+    570,
+    730
+  ],
+  "RemoteCommunication": 0,
+  "SteamLogin": "r65xge6ruo6hs",
+  "SteamPassword": "D3f33GOlGMrUASo"
+}

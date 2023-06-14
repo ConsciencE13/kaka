@@ -1,0 +1,15 @@
+{
+  "AcceptGifts": true,
+  "AutoSteamSaleEvent": true,
+  "BotBehaviour": 32,
+  "FarmPriorityQueueOnly": true,
+  "GamesPlayedWhileIdle": [
+    730
+  ],
+  "RemoteCommunication": 0,
+  "SteamLogin": "serzheka_7788",
+  "SteamPassword": "seR8877Cs:Go6",
+  "SteamUserPermissions": {
+    "76561199340678319": 2
+  }
+}
